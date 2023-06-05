@@ -1,2 +1,2 @@
 # GrillApp
-A project about of grill meets 
+A project about of griled meats 
